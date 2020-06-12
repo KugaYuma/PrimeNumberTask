@@ -5,7 +5,7 @@ What does this code do:
 
 How to clone this repository:
 1. Click on the “Clone or Download” button or click [here](https://github.com/KugaYuma/PrimeNumberTask/archive/master.zip) to download
-2. Choose where you want the zip file to be save 
+2. Choose where you want the zip file to be saved 
 3. Once the ZIP is downloaded unzip the file with [WinRAR](https://www.win-rar.com/start.html?&L=0) or the inbuilt windows unzipper
 
 How to run this python code:
