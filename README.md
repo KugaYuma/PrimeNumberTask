@@ -13,7 +13,7 @@ How to run this python code:
    * Windows Intel [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
    * Windows AMD [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe)
    * Mac OS X [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
-3. When downloaded, install python and make sure to click "Add to PATH" during installation 
+3. When downloaded, install python and make sure to click "Add to PATH" at the bottom of the installer
 4. When that is finished, go and open the program called "IDLE Python 3.6.4" Which can be found with your operating systems search tool
 5. From there go to file>open and navigate to where you unzipped this repository and click on Prime.py and open
 6. When you opened the program, click F5 on your keyboard to run the program
