@@ -2,7 +2,7 @@
 
 How to clone this repository:
 1. Click on the “Clone or Download” button which is green
-2. You can either Download ZIP 
+2. Chooose where you want the zip file to be save 
 3. Once the ZIP is downloaded unzip the file with [WinRAR](https://www.win-rar.com/start.html?&L=0)
 
 How to run this python code:
