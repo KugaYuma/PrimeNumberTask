@@ -10,7 +10,6 @@ How to clone this repository:
 
 How to run this python code:
 1. This code was written with [Python 3.6.4](https://www.python.org/downloads/release/python-364/) so so will need that version to run the code as intended
-2. Once on that site make sure to select the suitable version for your operating system:
    * Windows Intel [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
    * Windows AMD [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe)
    * Mac OS X [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
