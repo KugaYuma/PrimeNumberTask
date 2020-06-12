@@ -4,7 +4,7 @@ What does this code do:
 * This code will display the prime numbers between 1 and 100 when executed
 
 How to clone this repository:
-1. Click on the “Clone or Download” button which is green
+1. Click on the “Clone or Download” button which is green and located under the contributor tab
 2. Choose where you want the zip file to be save 
 3. Once the ZIP is downloaded unzip the file with [WinRAR](https://www.win-rar.com/start.html?&L=0) or the inbuilt windows unzipper
 
